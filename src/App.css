@@ -1,0 +1,42 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.App {
+  width: 90%;
+  height: 100%;
+  overflow: hidden;
+  background: linear-gradient(to right, #ffd52c, #dfb408);
+  margin: auto;
+}
+
+.imagenpokemon {
+  margin: auto;
+}
+
+.carta {
+  border: 2px solid #c7a008 !important;
+  height: 500px !important;
+}
+
+.pokemon {
+  color: #ffcb05;
+  font-weight: bold;
+}
+.pokemon:hover {
+  color: #b38f03;
+}
+
+h5 {
+  text-transform: capitalize;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  background-color: grey;
+  color: white;
+  height: 30px;
+  text-align: center;
+}
