@@ -18,6 +18,7 @@ img {
 .carta {
   border: 2px solid #c7a008 !important;
   height: 500px !important;
+  min-width: 300px !important;
 }
 
 .pokemon {
